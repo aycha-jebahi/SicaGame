@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: f50f88954d752de459260575e2a3f6e1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alpha3-cp_0
+    21300002: alpha3-cp_1
+    21300004: alpha3-cp_2
+    21300006: alpha3-cp_3
+    21300008: alpha3-cp_4
+    21300010: alpha3-cp_5
+    21300012: alpha3-cp_6
+    21300014: alpha3-cp_7
+    21300016: alpha3-cp_8
+    21300018: alpha3-cp_9
+    21300020: alpha3-cp_10
+    21300022: alpha3-cp_11
+    21300024: alpha3-cp_12
+    21300026: alpha3-cp_13
+    21300028: alpha3-cp_14
+    21300030: alpha3-cp_15
+    21300032: alpha3-cp_16
+    21300034: alpha3-cp_17
+    21300036: alpha3-cp_18
+    21300038: alpha3-cp_19
+    21300040: alpha3-cp_20
+    21300042: alpha3-cp_21
+    21300044: alpha3-cp_22
+    21300046: alpha3-cp_23
+    21300048: alpha3-cp_24
+    21300050: alpha3-cp_25
+    21300052: alpha3-cp_26
+    21300054: alpha3-cp_27
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alpha3-cp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.32228538}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162f97d3b82c2a4ea76f589984790a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 117
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.37952483}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef555d994b8034184a943616cd665d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 118
+        width: 31
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410b22f37b60704bbdde85057313a68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 117
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: 0.54531705, y: 0.18581483}
+      border: {x: 0, y: 0, z: 0, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68caa0ef2032443927a64396961240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 117
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.28685138}
+      border: {x: 5, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0607295216a3184ba7a11cb930e1bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544d0eb1598eb1449f5ef4b35ed8f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 118
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5370c166463acd442bbbf7926e6237bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 79
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.18803348, y: 0.56605464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e79d5c1a5d9f045b58bb85725f95a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5314703, y: 0.30657288}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d063a22bab7a6a840aef02abedffd419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 79
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3935bf995ad6084d84428bc902a670e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.30026832, y: 0.46293068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee125ad36a1785468a27a0040e719e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 76
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc62735e315fa054799dea6c407307a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 75
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dd03b04c25ffe41814bae8ddbe3a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 74
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02bb0d7f2260984690156acd3918960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 39
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.57775015, y: 0.5092109}
+      border: {x: 0, y: 0, z: 0, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa3af7d3ee8c24a893d5e98479599c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.78197384, y: 0.37952483}
+      border: {x: 2, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd3a6fbeb61b3469a6010122e1277a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5ec9556ccbfdb4fa1610647c7afe45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6879825, y: 0.5000001}
+      border: {x: 0, y: 4, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a0c37c810293479aab17eb5c627b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ffc616429935b47839606b3755293b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 36
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb97cf7564523d8409aa70f059d0bab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779d2e4a97518f428d408c7936171bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee33b48c46a2345bc2e9e1697dbe9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e3430195704e4bab870f534f4cbc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade9ee885c368b439478922ebb023a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c89f809bc2e454192313d550bd19cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e837d58e0cc0f47a3ccdd054936866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alpha3-cp_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63146b757e34ac24bb1a66ab715030d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0d9c54870073dcf49a122be23c8aae88
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
